@@ -1,0 +1,1 @@
+Code ini yang sering digunakan oleh para penipu untuk membuat sebuah aplikasi malware dan RAT yang sering dinamai dengan SURAT UNDANGAN NIKAH atau sejenisnya yang dimana korban harus memasangankan aplikasi tersebut agar penipu bisa mengakses semua yang ada di handphone korban
